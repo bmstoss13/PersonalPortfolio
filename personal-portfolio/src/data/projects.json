@@ -1,0 +1,7 @@
+{
+    "projects" : [
+        {"id": 1, "name": "Project Management App", "link": "https://project-b-20-app-40ef0315a6aa.herokuapp.com/"},
+        {"id": 2, "name": "When2Work Redesign Prototype Repo", "link": "https://github.com/bmstoss13/When2Work-Redesign-Prototype"},
+        {"id": 3, "name": "AI Recovery Plan App", "link": "https://resurge-app-7c4193968a0a.herokuapp.com/"}        
+    ]
+}
